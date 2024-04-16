@@ -55,7 +55,6 @@
  
 ### 프로젝트 아키텍쳐
 ---
-![아키텍쳐](https://github.com/TeamNewserial/.github/assets/71147610/b93bb3d6-5ce3-4c71-bac8-e2b92a2d41f6)
 
 ### 개발자
 ---
