@@ -21,14 +21,14 @@
 
 ### 화면 디자인
 ---
-![Group 23](https://github.com/scenchive/.github/assets/57668195/aee63a39-7f95-482b-a53d-8a81c810c280)
-![Group 24](https://github.com/scenchive/.github/assets/57668195/55cb1e46-0148-45db-967c-c15bb8280011)
-![Group 25](https://github.com/scenchive/.github/assets/57668195/f2d2f90c-dc47-4b10-ad55-d059df031ee5)
-![Group 26](https://github.com/scenchive/.github/assets/57668195/dc65a9ab-450c-4f49-a8f1-95bafa939e5a)
-![Group 4](https://github.com/scenchive/.github/assets/57668195/568fc591-cca8-49ab-8979-ffec600badce)
-![Group 5](https://github.com/scenchive/.github/assets/57668195/40f796b3-8c08-4e86-8044-982a8c9e59b9)
-![Group 6](https://github.com/scenchive/.github/assets/57668195/42536fa8-f252-4aea-9c5a-c4d634b82386)
-![Group 7](https://github.com/scenchive/.github/assets/57668195/538d150e-7a02-456a-9ba5-5b835327b860)
+<img src="https://github.com/scenchive/.github/assets/57668195/aee63a39-7f95-482b-a53d-8a81c810c280"  width=160/>
+<img src="https://github.com/scenchive/.github/assets/57668195/55cb1e46-0148-45db-967c-c15bb8280011) width=160/>
+<img src="https://github.com/scenchive/.github/assets/57668195/f2d2f90c-dc47-4b10-ad55-d059df031ee5) width=160/>
+<img src="https://github.com/scenchive/.github/assets/57668195/dc65a9ab-450c-4f49-a8f1-95bafa939e5a) width=160/>
+<img src="https://github.com/scenchive/.github/assets/57668195/568fc591-cca8-49ab-8979-ffec600badce) width=160/>
+<img src="https://github.com/scenchive/.github/assets/57668195/40f796b3-8c08-4e86-8044-982a8c9e59b9) width=160/>
+<img src="https://github.com/scenchive/.github/assets/57668195/42536fa8-f252-4aea-9c5a-c4d634b82386) width=160/>
+<img src="https://github.com/scenchive/.github/assets/57668195/538d150e-7a02-456a-9ba5-5b835327b860) width=160/>
 
 
 ### 주요 기능 + 상세 기능
