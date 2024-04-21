@@ -62,6 +62,6 @@
 ---
  |<img src="https://github.com/VanesaK.png" width="200">|<img src="https://github.com/JEONGEUN0204.png" width="200">|<img src="https://github.com/aaa67.png" width="200">|<img src="https://github.com/OaYenn.png" width="200">|
  |:-:|:-:|:-:|:-:|
- |[김민지](https://github.com/VanesaK)|[신정은](https://github.com/JEONGEUN0204)|[신정인](https://github.com/aaa67)|[이지혜](https://github.com/OaYenn)|
+ |[김민지](https://github.com/VanesaK)|[신정은](https://github.com/JEONGEUN0204)|[신정인](https://github.com/aaa67)|[최예진](https://github.com/OaYenn)|
  |Frontend Developer|Frontend Developer|Backend Developer|Backend Developer|
   
