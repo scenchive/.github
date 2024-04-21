@@ -13,7 +13,7 @@
 ---
 **프론트엔드** : Typescript, React, javascript, @emotion/styled
 
-**개발환경**: MySQL, VSCode, InteliJ, Redis, Git
+**개발환경**: VSCode, InteliJ, MySQL, Redis, Amazon S3, Git
 
 **백엔드** : Spring Boot 3.1.5, Java JDK 17, Spring Security 6.1.5, JPA Hibernate
 
@@ -55,7 +55,7 @@
  
 ### 프로젝트 아키텍쳐
 ---
-![Group 282](https://github.com/scenchive/.github/assets/57668195/281dba91-4283-43f8-9000-120065d9fa2e)
+![Group 284](https://github.com/scenchive/.github/assets/114573522/91ee43e5-88b3-434b-a264-ae7011f9ce16)
 
 
 ### 개발자
