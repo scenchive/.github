@@ -55,6 +55,8 @@
  
 ### 프로젝트 아키텍쳐
 ---
+![Group 282](https://github.com/scenchive/.github/assets/57668195/281dba91-4283-43f8-9000-120065d9fa2e)
+
 
 ### 개발자
 ---
